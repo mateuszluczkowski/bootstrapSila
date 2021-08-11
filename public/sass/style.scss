@@ -1,0 +1,12 @@
+@import '_variables';
+@import 'node_modules/bootstrap/scss/bootstrap';
+
+body {
+    background-color: $bg-color;
+}
+
+.card-img-top {
+    margin: 0 auto;
+    height: 200px;
+    width: fit-content;
+}
